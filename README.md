@@ -1,3 +1,3 @@
 ## Olá! 👋
 
-Meu nome é Pedro, estudo desenvolvimento web, atualmente interessado em Golang.
+Meu nome é Pedro, sou estudante de Ciência da Computação.
