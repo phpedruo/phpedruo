@@ -1,5 +1,7 @@
 # 💫 Sobre mim:
-- 🔭 Ciência da Computação<br>- 📚 Python | JavaScript<br>- ⚡ Esportes | Jogos online
+- 🔭 Ciência da Computação
+- 📚 Python | JavaScript
+- ⚡ Esportes | Jogos online
 
 
 ## 🌐 Redes Sociais:
