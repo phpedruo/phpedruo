@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 🌊 Sobre mim:
 - 🔭 Ciência da Computação
 - 📚 Python | JavaScript
 - ⚡ Esportes | Jogos online
